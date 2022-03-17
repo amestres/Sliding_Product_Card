@@ -1,3 +1,3 @@
 Preview
 
-![CHEESE!](README_gif/popup.gif)
+![CHEESE!](README_gif/sliding.gif)
